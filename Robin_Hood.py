@@ -28,13 +28,14 @@ print('Shots in quadrant 4 = ', len(q4))
 # 3. Find the closest point to the center. Calculate its distance from the center
 # Defining a function that calculates the distance to the center can help.
 
+#The Solution is Coming soon!!!!!!
 
 # 4. If the target has a radius of 9, calculate the number of arrows to collect from the forest.
 shots_failed = []
 
 for point in points:
     if (abs(point[0]) >= 9 or abs(point[1]) >= 9):
-        fail_shots.append(point)
+        shots_failed.append(point)
         
 print('The list of failed shots is: ', shots_failed)
 print('The number of failed shots are: ', len(shots_failed))
