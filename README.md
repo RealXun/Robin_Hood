@@ -12,8 +12,9 @@ In 2-dimensional space a point can be defined by a pair of values ​​that cor
 
 If a point is in Q1, both its x and y coordinates are positive. I leave you a link to wikipedia so you can familiarize yourself with these quadrants.
 
-- https://es.wikipedia.org/wiki/Cartesian_Coordinates
-- https://es.wikipedia.org/wiki/Euclidean_Distance
+- https://en.wikipedia.org/wiki/Cartesian_coordinate_system
+
+- https://en.wikipedia.org/wiki/Euclidean_distance
 
 ## Objectives:
 * data structures: lists, sets, tuples
