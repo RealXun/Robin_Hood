@@ -32,4 +32,5 @@ puntos = [(4,5), (-0,2), (4,7), (1,-3), (3,-2), (4,5), (3,2), (5,7), (-5,7), (2,
 4. If the target has a radius of 9, calculate the number of arrows that must be collected from the forest.
 
 ## Solution:
-
+- ipynb File – [Click Here](https://github.com/RealXun/Robin_Hood/blob/main/Robin_Hood.ipynb)
+- py File – [Click Here](https://github.com/RealXun/Robin_Hood/blob/main/Robin_Hood.py)
