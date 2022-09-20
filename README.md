@@ -21,7 +21,14 @@ https://es.wikipedia.org/wiki/Euclidean_Distance
 * loop: while/for
 * calculation of minimum (optional sorting)
 
-## Tasks
+## Having this:
+```
+puntos = [(4,5), (-0,2), (4,7), (1,-3), (3,-2), (4,5), 
+          (3,2), (5,7), (-5,7), (2,2), (-4,5), (0,-2), 
+          (-4,7), (-1,3), (-3,2), (-4,-5), (-3,2), 
+          (5,7), (5,7), (2,2), (9, 9), (-8, -9)]
+```
+## Tasks:
 1. Robin Hood is famous for hitting an arrow with another arrow. Have you got it?
 2. Calculate how many arrows have fallen in each quadrant.
 3. Find the point closest to the center. Calculate its distance from the center
